@@ -1,0 +1,13 @@
+Changes made:
+
+1. In TPO.jsp add button to click on profile
+
+	<h2><a href="addProfile.html">
+	<button>Create Job Profile</button>
+	</a></h2>
+	
+2. In WEB-INF/views add addProfile.jsp
+
+3. Add ManageProfile controller
+
+4. 
